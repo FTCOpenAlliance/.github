@@ -12,7 +12,7 @@ The FTC Open Alliance follows the same principles as FTC Open Alliance. They are
 - Open Alliance teams join to help all teams, not just other Open Alliance teams.
 
 ## Joining the Alliance
-FTC Open Alliance is currently in its beta testing year, so we are only accepting members who we have personally invited. After this initial testing period, we will open FTCOA to all teams, so that any team can join and contribute their Code, CAD, and Build Thread. Once FTCOA starts public admission, teams will be able to submit these through a form hosted on the FTCOA website at [FTCOpenAlliance.org](FTCOpenAlliance.org).
+FTC Open Alliance is currently in its beta testing year, so we are only accepting members who we have personally invited. After this initial testing period, we will open FTCOA to all teams, so that any team can join and contribute their Code, CAD, and Build Thread. Once FTCOA starts public admission, teams will be able to submit these through a form hosted on the FTCOA website at [FTCOpenAlliance.org](https://FTCOpenAlliance.org).
 
 ## What do we collect?
 
